@@ -26,16 +26,14 @@ export default function Home() {
           height={38}
           priority
         />
-
+        
         <ol className="font-mono list-inside list-decimal text-sm/6 text-center sm:text-left">
           <li className="mb-2 tracking-[-.01em]">
            Heron Luna
             
           </li>
           <li className="tracking-[-.01em]">
-            Save and see your changes instantly.origin  https://github.com/another/repo.git (fetch)
-origin  https://github.com/another/repo.git (push)
-
+            Save and see your changes instantly.git commit -m "first commit"
           </li>
         </ol>
         <div className="flex gap-4 items-center flex-col sm:flex-row">
